@@ -1,0 +1,5 @@
+puts "Superclass of Class is #{Class.superclass}"
+puts "Class of Kernel is #{Kernel.class}"
+puts "Superclass of Module is #{Module.superclass}"
+puts "Superclass of Object is #{Object.superclass}"
+puts "Superclass ofBasic Object is #{BasicObject.superclass}"
